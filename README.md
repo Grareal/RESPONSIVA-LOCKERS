@@ -1,5 +1,5 @@
 # RESPONSIVA-LOCKERS
-Programa realizado para la responsiva de lockers en VIDANTA,la cual almacena los lockers registrados a los colaboradores, donde se ha utilizado para las mas de 10 marcas de hotel y mas de 5000 colaboradores registrados
+Programa realizado en POWERAPPS, POWER AUTOMATE, SQL SERVER Y SHAREPOINT para la responsiva de lockers en VIDANTA,la cual almacena los lockers registrados a los colaboradores, donde se ha utilizado para las mas de 10 marcas de hotel y mas de 5000 colaboradores registrados
 Primero se da la bienvenida al programa en donde podremos ir colocando la informacion correspondiente, con el solo numero de colaborador, conecta al la base de datos y arroja los campos
 ![imagen (3)](https://github.com/user-attachments/assets/01a70870-5e14-4367-8780-fd8358043653)
 ![imagen (5)](https://github.com/user-attachments/assets/61dfbb26-df2d-4d1b-9379-2140b8b20b22)
